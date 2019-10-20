@@ -1,0 +1,13 @@
+{
+  "name": "CompareBestPriceBot",
+  "version": "1.0.0",
+  "description": "Compare quantity and prices to see which is cheaper",
+  "main": "index.js",
+  "repository": "https://github.com/guihatano/compare_best_price_bot.git",
+  "author": "Guilherme Yuki Hatano <guihatano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "open-graph-scraper": "^3.6.2"
+  }
+}
